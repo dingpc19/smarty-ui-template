@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "dpc-ui-vite": "*",
+    "dpc-ui-vite": "^1.0.15",
     "vue": "^3.2.41"
   },
   "devDependencies": {
